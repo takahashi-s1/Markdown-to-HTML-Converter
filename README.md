@@ -1,5 +1,5 @@
 # MarkdowntoHTMLConverter
-コンピュータ・サイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットとして作成しました。
+コンピュータ・サイエンス学習サービス[Recursion](https://recursionist.io/)を利用して独学した内容を、アウトプットして定着させるためにプロジェクトを作成しました。
 
 ## プロジェクトの概要
 Markdown形式のファイルをHTMLに変換することができます。
