@@ -12,7 +12,7 @@ args = parser.parse_args()
 
 # commandがmarkdownでない場合はエラーを出す
 if args.command.lower() != 'markdown':
-    raise ValueError("Invalid command. The command should be 'markdown'.")
+    raise ValueError("The command should be 'markdown'.")
 
 with open(args.inputfile, 'r') as f:
     md_text = f.read()
