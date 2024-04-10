@@ -1,9 +1,11 @@
 # MarkdowntoHTMLConverter
 ## 概要
-コンピュータ・サイエンス学習サービスRecursionを利用して独学した内容を、アウトプットして定着させるためにプロジェクトを作成しました。
+コマンドライン上からMarkdown形式のファイルをHTMLに変換することができます。
 
-## 機能
-コマンド上からMarkdown形式のファイルをHTMLに変換することができます。
+## 背景
+CS知識を学習するために作成しました。  
+   
+参考：コンピュータ・サイエンス学習サービス[Recursion](https://recursionist.io/)
 
 ## 実行方法
 - Pythonパッケージのmarkdownをインストールします。
